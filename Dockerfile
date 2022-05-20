@@ -23,4 +23,4 @@ ENV PORTAL_ADMIN "http://localhost:3000"
 EXPOSE ${APP_PORT}
 
 WORKDIR /myapp
-CMD java -jar aline-gateway-0.0.1.jar
+CMD java -jar aline-gateway-0.0.1-SNAPSHOT.jar
