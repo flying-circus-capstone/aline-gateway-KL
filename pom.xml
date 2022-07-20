@@ -11,7 +11,7 @@
     <groupId>com.aline</groupId>
     <artifactId>aline-gateway</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>aline-gateway</name>
+    <name>Gateway Microservice KL</name>
     <description>aline-gateway</description>
     <properties>
         <java.version>1.8</java.version>
